@@ -1,6 +1,9 @@
 package com.example.javaproject2.week3.d1;
 
-public class MultiplicationTable {
+public class MultiplicationTableStatic {
+    public static void printNDan(int n) {
+
+    }
     public static void main(String[] args) {
 
         for (int j = 2; j <= 4; j++) {

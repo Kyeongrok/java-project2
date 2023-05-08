@@ -1,4 +1,4 @@
-package com.example.javaproject2.week4.d1;
+package com.example.javaproject2.week4.d1b;
 
 public class ParallelogramStar {
     public static void main(String[] args) {

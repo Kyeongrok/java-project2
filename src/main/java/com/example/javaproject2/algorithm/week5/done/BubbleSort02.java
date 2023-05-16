@@ -1,4 +1,4 @@
-package com.example.javaproject2.algorithm;
+package com.example.javaproject2.algorithm.week5.done;
 
 import java.util.Arrays;
 import java.util.Comparator;
